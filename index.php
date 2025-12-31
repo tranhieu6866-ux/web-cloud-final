@@ -9,7 +9,7 @@
 </head>
 <body class="bg-light">
     <div class="container mt-5">
-        <h2 class="text-center mb-4 text-primary">QUẢN LÝ SẢN PHẨM TRÊN AZURE</h2>
+        <h2 class="text-center mb-4 text-primary">QUẢN LÝ SẢN PHẨM TRÊN RENDER</h2>
         
         <a href="add.php" class="btn btn-success mb-3">+ Thêm sản phẩm mới</a>
 
